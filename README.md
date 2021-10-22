@@ -1,4 +1,4 @@
-# Matplotlib Homework - The Power of Plots
+# Matplotlib - The Power of Plots
 
 ## Background
 
@@ -83,7 +83,3 @@ Here are some final considerations:
 ## References
 
 Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
-
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
